@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1639600000 source:c:\users\steven\desktop\cs370\test\main.cpp
+	<stdio.h>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<Goalie.h>
+
+1637527128 source:c:\users\steven\desktop\cs370\test\src\goalie.cpp
+	"Goalie.h"
+
+1637527105 c:\users\steven\desktop\cs370\test\include\goalie.h
+	<string>
+
