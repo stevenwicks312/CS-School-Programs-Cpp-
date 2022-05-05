@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1637167079 source:c:\users\steven\desktop\cs370\grades\main.cpp
+	<iostream>
+	"Student.h"
+
+1637169360 c:\users\steven\desktop\cs370\grades\include\student.h
+	<string>
+
+1636996063 source:c:\users\steven\desktop\cs370\grades\src\student.cpp
+	"Student.h"
+
+1637167397 c:\users\steven\desktop\cs370\grades\student.h
+	<string>
+
+1637521440 source:c:\users\steven\desktop\cs370\grades\include\student.cpp
+	"Student.h"
+
