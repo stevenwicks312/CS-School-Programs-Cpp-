@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1636389967 source:c:\users\steven\desktop\cs370\inventoryitem\inventoryitem.cpp
+	"InventoryItem.h"
+
+1636389966 c:\users\steven\desktop\cs370\inventoryitem\inventoryitem.h
+	<string>
+
+1636391242 source:c:\users\steven\desktop\cs370\inventoryitem\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<stdlib.h>
+	"InventoryItem.h"
+	<time.h>
+
